@@ -70,10 +70,10 @@ This module explores Claude's "vision" capabilities, allowing it to understand a
       * **UI Analysis:** "Given this screenshot of a webpage, what is the main call to action?" (This directly leads into the Computer Use case).
   * You learn the limitations and best practices, such as how to prompt the model to focus on specific parts of an image or to handle multiple images at once.
 
-\</details\>
+</details>
 
-\<details\>
-\<summary\>\<strong\>Module 4: Real World Prompting\</strong\>\</summary\>
+<details>
+<summary><strong>Module 4: Real World Prompting</strong></summary>
 
 This module goes deep into prompt engineering techniques specifically tailored for getting reliable, structured, and high-quality responses from Claude.
 
